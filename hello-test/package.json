@@ -1,0 +1,26 @@
+{
+  "name": "hello-test",
+  "version": "1.0.0",
+  "description": "Learn mocha",
+  "main": "hello.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/yddgit/hello-mocha.git"
+  },
+  "keywords": [
+    "test",
+    "mocha"
+  ],
+  "author": "mocha",
+  "license": "Apache-2.0",
+  "dependencies": {},
+  "devDependencies": {
+    "mocha": "7.1.1"
+  }
+}

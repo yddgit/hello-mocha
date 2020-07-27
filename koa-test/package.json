@@ -1,0 +1,27 @@
+{
+    "name": "hello-koa2",
+    "version": "1.0.0",
+    "description": "Hello Koa 2 Example with test",
+    "main": "start.js",
+    "scripts": {
+        "start": "node start.js",
+        "test": "mocha"
+    },
+    "keywords": [
+        "koa",
+        "test"
+    ],
+    "author": "koa2",
+    "license": "Apache-2.0",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/yddgit/hello-mocha.git"
+    },
+    "dependencies": {
+        "koa": "2.13.0"
+    },
+    "devDependencies": {
+        "mocha": "7.1.1",
+        "supertest": "4.0.2"
+    }
+}
