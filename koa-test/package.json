@@ -18,7 +18,7 @@
         "url": "https://github.com/yddgit/hello-mocha.git"
     },
     "dependencies": {
-        "koa": "2.13.0"
+        "koa": "3.0.1"
     },
     "devDependencies": {
         "mocha": "7.1.1",
